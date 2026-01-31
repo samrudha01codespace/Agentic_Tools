@@ -1,0 +1,12 @@
+/home/jarvis/Documents/javadocs.pdf|35e140a23c7a2b4d8be61ebe80045689
+/home/jarvis/Documents/SQL-Manual.pdf|ac5ffc80a7a2c0a87197a0bfa159263e
+/home/jarvis/Documents/ProbabilisticRobotics.pdf|e68e222acfcb6e1684d1755edd8b0d48
+/home/jarvis/Documents/c_c-data-structures-and-algorithms-in-c.pdf|9610f5551ab358d6388a606df58be3fa
+/home/jarvis/Documents/AndroidAppDevelopment.pdf|686b02779e2c3e014b1b096a35f17e6d
+/home/jarvis/Documents/ESLII_print12_toc.pdf|debfd1b1319ca722edb7ce7ede4c63c9
+/home/jarvis/Documents/MR-largefont-v2.pdf|566f172e1423083a2e39afde8b2fe00c
+/home/jarvis/Documents/eft.pdf|48f94638cf48b8d8ce7d20bdd4ad5a74
+/home/jarvis/Documents/Principles of Robotics & Artificial Intelligence ( PDFDrive ).pdf|8c4fa7baa21cf88ce320c7cb8a7fe026
+/home/jarvis/Documents/kotlin-reference.pdf|869b008333ce0ff502b6b27c972d46ce
+/home/jarvis/Documents/Nuclear Physics of Stars - C. Iliadis (Wiley, 2007) WW.pdf|7909e4964d0e38f118c595e8314cf873
+/home/jarvis/Documents/lamarsh_baratta-introduction_to_nuclear_engineering_textbook_3rd_edition.pdf|befbe26affd2e74e2ff4d0cf85cf602b

@@ -1,0 +1,31 @@
+requests~=2.32.4
+beautifulsoup4~=4.13.4
+google-api-python-client~=2.173.0
+psutil~=7.0.0
+pygame~=2.6.1
+gTTS~=2.5.4
+pytesseract~=0.3.13
+pdf2image~=1.17.0
+pdfplumber~=0.11.7
+paramiko~=3.5.1
+
+# LangChain + Ollama + HuggingFace
+langchain~=0.3.26
+langchain-core~=0.3.66
+langchain-community~=0.3.26
+langchain-huggingface
+langchain-ollama
+langchain-text-splitters~=0.3.8
+
+# FAISS (vector DB)
+faiss-cpu
+
+# Optional: For PDFs and OCR
+Pillow~=11.2.1
+tesseract
+ollama~=0.5.1
+google-auth-oauthlib~=1.2.2
+protobuf~=6.31.1
+oauthlib~=3.3.1
+pydantic~=2.11.7
+numpy~=2.3.1

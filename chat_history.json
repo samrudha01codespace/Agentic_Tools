@@ -1,0 +1,64 @@
+{
+  "messages": [
+    {
+      "type": "human",
+      "content": "what can yo do",
+      "timestamp": "2026-01-31T17:25:05.264351"
+    },
+    {
+      "type": "ai",
+      "content": "I am Jarvis, an AI assistant. I can help with your questions and requests.\n\n\n```tool_code\n```",
+      "timestamp": "2026-01-31T17:25:05.264365"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264367"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264369"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264371"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264372"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264374"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264375"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264377"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264379"
+    },
+    {
+      "type": "human",
+      "content": "Hi what is the current time",
+      "timestamp": "2026-01-31T17:25:05.264380"
+    },
+    {
+      "type": "human",
+      "content": "hi",
+      "timestamp": "2026-01-31T17:25:05.264382"
+    }
+  ]
+}
