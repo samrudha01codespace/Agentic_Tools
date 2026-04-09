@@ -1,4 +1,4 @@
-# Jarvis AI Assistant
+# AI Assistant
 
 A local AI assistant inspired by Iron Man's Jarvis — powered by Ollama, LangChain, and local LLMs. It runs entirely on your machine with tool-augmented reasoning, memory, and multi-agent capabilities.
 
